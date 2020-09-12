@@ -42,5 +42,6 @@ Service
 2020 --   Supervisor, Dongguan Campus, City University of Hong Kong.  
 2018 --   Senate, City University of Hong Kong.  
 2020 --   Seminar Coordinator, Department of Marketing, City University of Hong Kong.  
+
 Ad-hoc Reviewer: *California Management Review, European Journal of Operational Research, International Transactions in Operations Research, Journal of Business Research, Journal of Marketing Research, Journal of Systems Science & Systems Engineering, Management Science, Manufacturing & Service Operations Management, Marketing Science, Naval Research Logistics, Omega, Review of Industrial Organization.*
 
