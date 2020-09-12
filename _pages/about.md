@@ -17,7 +17,9 @@ Employment
 Education
 ======
 2017    Ph.D., Management, University of Toronto
+
 2013    M.Phil., Operations Research, HKUST
+
 2011    B.E., Computer Science and Technology, Tsinghua University
 
 Getting started
