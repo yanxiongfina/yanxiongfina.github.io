@@ -45,3 +45,5 @@ Service
 
 Ad-hoc Reviewer: *California Management Review, European Journal of Operational Research, International Transactions in Operations Research, Journal of Business Research, Journal of Marketing Research, Journal of Systems Science & Systems Engineering, Management Science, Manufacturing & Service Operations Management, Marketing Science, Naval Research Logistics, Omega, Review of Industrial Organization.*
 
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=xitheory
+
