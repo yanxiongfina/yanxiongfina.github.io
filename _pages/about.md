@@ -22,8 +22,8 @@ Education
 
 Publications
 ======
-1. "Strategic Inventories under Supply Chain Competition", (with Yanzhi Li and Ying-Ju Chen), Manufacturing & Service Operations Management, accepted.
-2. 
+1. "Strategic Inventories under Supply Chain Competition", (with Yanzhi Li and Ying-Ju Chen), *Manufacturing & Service Operations Management*, accepted.
+1. "Expert Reviewers’ Restraint from Extremes and its Impact on Service Providers", (with Peter Nguyen, Xin Wang and June Cotte), *Journal of Consumer Research*, accepted.
 
 Site-wide configuration
 ------
