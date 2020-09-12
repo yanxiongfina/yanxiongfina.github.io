@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
-teaser                   : "profile.png"
+teaser                   : "http://xitheory.github.io/images/profile.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xi Li"
-  avatar           : "profile.png"
+  avatar           : "http://xitheory.github.io/images/profile.png"
   bio              : "Assistant Professor of Marketing"
   location         : 
   employer         : "City University of Hong Kong"
