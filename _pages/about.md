@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am Xi Li, an Assistant Professor of Marketing at the City University of Hong Kong. My research examines how the economics of big data. I use economics and machine learning methods to understand how information technologies such as artificial intelligence, machine learning, blockchain, and consumer profiling affect firms, consumers and the society, and how policymakers should regulate big data and protect consumer privacy.
+I am Xi Li, an Assistant Professor of Marketing at the City University of Hong Kong. My research examines how the economics of big data. I use economics and machine learning methods to understand how information technologies such as artificial intelligence, machine learning, data-driven algorithms, blockchain, and consumer profiling affect firms, consumers and the society, and how policymakers should regulate big data and protect consumer privacy.
 
-A data-driven personal website
+Employment
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+2017 --   Assistant Professor, College of Business, City University of Hong Kong
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Education
+======
+2017    Ph.D., Management, University of Toronto
+2013    M.Phil., Operations Research, HKUST
+2011    B.E., Computer Science and Technology, Tsinghua University
 
 Getting started
 ======
