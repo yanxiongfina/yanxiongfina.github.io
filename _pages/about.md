@@ -31,9 +31,11 @@ Publications
 1. "Product and Pricing Decisions in Crowdfunding", (with Ming Hu and Mengze Shi), *Marketing Science*, 34(3): 331–345, 2015. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2405552) [Publisher](https://pubsonline.informs.org/doi/pdf/10.1287/mksc.2014.0900)
 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Teaching
+======
+MKT3602 Marketing Research  
+MKT5612 Applied Marketing Research  
+MKT8630 Marketing Models
 
 Create content & metadata
 ------
