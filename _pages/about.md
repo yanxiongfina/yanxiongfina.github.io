@@ -23,7 +23,9 @@ Education
 Publications
 ======
 1. "Strategic Inventories under Supply Chain Competition", (with Yanzhi Li and Ying-Ju Chen), *Manufacturing & Service Operations Management*, accepted. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3003887)
-1. "Expert Reviewers’ Restraint from Extremes and its Impact on Service Providers", (with Peter Nguyen, Xin Wang and June Cotte), *Journal of Consumer Research*, accepted.
+1. "Expert Reviewers’ Restraint from Extremes and its Impact on Service Providers", (with Peter Nguyen, Xin Wang and June Cotte), *Journal of Consumer Research*, accepted. [Publisher](https://academic.oup.com/jcr/advance-article/doi/10.1093/jcr/ucaa037/5871927)
+1. "Contract Unobservability and Downstream Competition", (with Qian Liu), *Manufacturing & Service Operations Management*, accepted. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3339702)
+1. "Transparency of Behavior-Based Pricing", (with Krista J. Li and Xin Wang), Journal of Marketing Research, 58(1): 78–99, 2020. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3441906) [Publisher](https://journals.sagepub.com/doi/full/10.1177/0022243719881448)
 
 Site-wide configuration
 ------
