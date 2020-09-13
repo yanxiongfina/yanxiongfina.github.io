@@ -52,7 +52,7 @@ Ad-hoc Reviewer: *California Management Review, European Journal of Operational 
 {% include hide.html %} 
 {% endcapture %}
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qYQjwHjY7SboCTxadDq9iRiUamGADfuoHTbC9hCoxYg"></script>
+
 
 
 
