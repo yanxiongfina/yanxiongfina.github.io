@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xi Li"
-  avatar           : "http://xitheory.github.io/images/profile.png"
-  bio              : "Assistant Professor of Marketing"
+  name             : "Yan Xiong"
+  avatar           : "http://yanxiongfina.github.io/images/profile.png"
+  bio              : "Assistant Professor of Finance"
   location         : "Hong Kong"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=jOf9beQAAAAJ&hl=zh-CN"
-  email            : "xi.li@cityu.edu.hk"
+  googlescholar    : 
+  email            : "yanxiong@ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.cb.cityu.edu.hk/staff/xili44/"
+  uri              : "http://www.bm.ust.hk/fina/faculty/directory/yanxiong"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-7081-0880"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
