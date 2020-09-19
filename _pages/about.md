@@ -28,7 +28,7 @@ Publications
 ======
 1. "Skill Acquisition and Data Sales", (with Shiyang Huang and Liyan Yang), under revision at ***Management Science***.
 
-1. "Information Bias in the Proxy Advisory Market", (with Shichao Ma), forthcoming in ****Review of Corporate Finance Studies***.
+1. "Information Bias in the Proxy Advisory Market", (with Shichao Ma), forthcoming in ***Review of Corporate Finance Studies***.
 
 
 
