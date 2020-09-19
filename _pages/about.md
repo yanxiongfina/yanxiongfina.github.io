@@ -12,7 +12,7 @@ I am an Assistant Professor of Finance at HKUST.
 
 Employment
 ======
-2019 --   Assistant Professor of Finance, HKUST.
+2019 --     Assistant Professor of Finance, HKUST.
 
 Education
 ======
