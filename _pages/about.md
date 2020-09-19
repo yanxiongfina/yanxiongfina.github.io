@@ -30,6 +30,8 @@ Research
 
 1. "Information Bias in the Proxy Advisory Market", (with Shichao Ma), forthcoming in ***Review of Corporate Finance Studies***. [Publisher](https://academic.oup.com/rcfs/advance-article/doi/10.1093/rcfs/cfaa005/5828943) [SSRN]("https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3396151")
 
+
+
 <script>
 var _hmt = _hmt || [];
 (function() {
@@ -39,6 +41,8 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
+
+
 
 
 
