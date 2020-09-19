@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://yanxiongfina.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
-teaser                   : "http://yanxiongfina.github.io/images/profile.png"
+teaser                   : "http://yanxiongfina.github.io/images/profile.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yan Xiong"
-  avatar           : "http://yanxiongfina.github.io/images/profile.png"
+  avatar           : "http://yanxiongfina.github.io/images/profile.jpg"
   bio              : "Assistant Professor of Finance"
   location         : "Hong Kong"
   employer         : 
